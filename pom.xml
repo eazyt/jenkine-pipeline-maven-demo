@@ -10,8 +10,7 @@
   <packaging>war</packaging>
  
 
-  <name>maven-pipeline-demo</name>
-  <description>maven-pipeline-demo.</description>
+
 
   <name>maven-pipeline-demo</name>
   <!-- FIXME change it to the project's website -->
